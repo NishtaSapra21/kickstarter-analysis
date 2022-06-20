@@ -15,7 +15,7 @@ Considering below dataset specifically for "theater" parent category, we can see
 
 ![TheaterOutcomesbyLaunchDate](https://user-images.githubusercontent.com/107717882/174674320-af34d2b9-46bf-428e-a284-9b4a428676c0.png)
 
-Graph is also having very steady lines except May, June and July for spikes in *"successful"* outcomes. 
+Graph is also having very steady lines except May, June and July showing spikes in *"successful"* outcomes. 
 
 ![Theater_Outcomes_vs_Launch ](https://user-images.githubusercontent.com/107717882/174674733-7ca151b1-8e10-4673-bb17-7927a70a6e4e.png)
 
