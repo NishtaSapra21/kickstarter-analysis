@@ -40,7 +40,7 @@ Real difficulty is; you cannot convert “Less” and “More” into value so I
 ## Results
 - Two conclusions are made about the **Theater Outcomes by Launch Date**
   1.	No campaign has been canceled for category “theater” in October.
-  2.	The highest number of successful campaigns are launched in June for “theater” category are 100. 
+  2.	The highest number of successful campaigns are launched in May for “theater” category are 111. 
 - One conclusion is made about the **Outcomes based on Goals**
   1.	As goal ranges increases percentage of successful outcomes are decreasing and percentage of failed outcomes increases.
 
